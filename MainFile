@@ -30,3 +30,5 @@ It also suggests, that the amount of reserve/backup of power stored, may effect 
 it may appear that a Charge/WindUp/Cooldown may have larger demands/diminished durations in which a small portion of its original powerdraw may be stored, that it may aquire HALF a CYCLE or MORE to which it may Chamber for later use. (At higher costs/lowered runtimes of the original battery, but storing more than either the Standard/Optimized Settings)
 
 These settings are calibrated and correalated to their test-runs, to also generate a power-algoritm, in which a gamespace may be "designed" due to the readouts/metrics that may be brokered of their PowerDraws/battery-use. or Shared/Hybrid Runtimes between settings and so on, per cycles invested.
+In a way, this associates/affiliates itself to a Refinment/DataScrape involving Powerdraws, and can be used to "field test" certain Game-Engine Surfaces/System Modules for which may be more desirable/priotized over others depending on their "SpecialCases/Adaptive Frameworks involved".
+This summuraizes the SimpleDragonClaw-Framework/Architecture module/device for GameEngine TestRuns.
