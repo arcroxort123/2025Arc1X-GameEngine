@@ -2,7 +2,6 @@
 3/19/2025
 
 2025Arc1X-GameEngine
-
 This describes a GameEngine capable of running on the Arch1X System and QuantumPillar PacketDelivery or Auto-Brokered-Distribution-Pipeline
 
 Description of GameEngine
@@ -21,7 +20,7 @@ StandardSample Charge/Run/Extended-Run may look like:
 An OptimizedSample Charge/Run/Extended-Run may look like:
 15Minutes/10Minutes/8Minutes
 In which it has cycled its own powerdraw being sutained by battery or direct-powerflow to have been optimized in its WindUp/Cooldowns having increased runtime overall.
-
+----
 For every Cycle of the Standard-Setting, it may aquire half a Cycle to which it may Chamber for later use.
 for every Cycle of the Optimized-Setting, it may aquire half a Cycle OR MORE to which it may Chamber for later use.
 
@@ -34,3 +33,4 @@ In a way, this associates/affiliates itself to a Refinment/DataScrape involving 
 This summuraizes the SimpleDragonClaw-Framework/Architecture module/device for GameEngine TestRuns.
 
 It will typically encode or be cycled using an entire sandbox setup from start to finish, for which case it is brokered and metrically aligned in a finalized Compile.
+This is intended to use as a leftover/remainder for generating power-algorithms that may or may not affect user-experience whatsoever. Or to help/assist with research purposes.
