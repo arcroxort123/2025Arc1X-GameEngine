@@ -22,4 +22,4 @@ It will also handle package callbacks/refunds or anything like a package-failure
 This may be scheduled as necessary to avoid conflicts/hangups and other potential stalls/blocklists.
 
 The idea is that it is Profiled for Express use. (As is MOST Protocols/Processing of the systems data-transfers) and this will catch-any-errors if detected/discovered/alerted/tested.
-Upon successful integration/refinement of the Surface/Data involved it will provide its own Hash/SymLink to further adjust as scheduled in its provider.
+Upon successful integration/refinement of the Surface/Data involved it will provide its own Hash/SymLink to further adjust as scheduled in its provider/project and then is validated/confirmed for entry/print.
