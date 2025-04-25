@@ -799,13 +799,14 @@ Form->Term
 ----------Submodule:
 Break->Context
 Encode->Glossary
---t
+--t(lock)
 PLLCX:
 Library->Header
 Kernal-Compress(Archive/Xtype)
 -----------Sublayer:
 Analysis-->Databank
 Allocate-->Compute
+--t(release/lease)
 ======================================================
 Adapter+Range:
 --
