@@ -318,3 +318,9 @@ Part3 PLLCXCPU
 ---
 Part4 Gpu-Onboard
 Part5 GpuBridge Vram Coordinator
+---
+Part6 Ai-ROUTING
+Part7 Ai-Express
+---
+Part8--Ai-QuantumWELD(LoicCap)
+Part9--Ai-Pipeline
