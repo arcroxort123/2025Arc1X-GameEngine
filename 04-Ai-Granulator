@@ -508,6 +508,7 @@ NETWORK-STACK
 
 ================================================================
 As this is applied over triage it develops the full AI-PROFILE (prioritization of CUSTOM-LOADOUT)
+A custom loadout may include POSE/IDLE of AI-Services/Ai-Stylizations per MOVESET/GEARSET ---acting as an AI-PSYCHE-EVAL in some cases.
 ================================================================
 
 This describes an AI-Adapter/Conduit for Ai-Conjuctive-Networks (VPN/PROXY)
