@@ -487,7 +487,7 @@ SUBDOMAIN:2x Left/Right Class/ID (Accessory/Apprenticeships)--(trainer/offering 
 ADDRESS:1x DataChain-Sampler/DropBox (Altar/Shrine)
 
 PART3:
-COMPLEXES: (HOSTED/LOADOUT)
+IDOL-COMPLEXES: (HOSTED/LOADOUT)
 ----(This works as a proof/token):
 Adapter-MASK:1x *Entry LOCK (Prefix External)
 Adapter-SubMASK:1x *Switch/Puck (Suffix Internal)
