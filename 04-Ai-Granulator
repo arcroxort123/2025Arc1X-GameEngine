@@ -471,6 +471,13 @@ This is placed over the Triage as a form of equipment/exquiry:
 Ai-CHARACTERIZATION includes its augmentations which may or may not be occupied in some way (infosec/domain etc)
 Known Residency in an Ai-IMPERSONATOR/Ai-Personification:
 
+AI PRIORITY:
+HEADER/KERNAL
+MANIFOLD/BOILERPLATE
+BOOTSTRAP/BOOTUP
+SERVOS/RING EXOLEVEL (0-1-2-3)
+
+AI ACCESSORIES (SubSET of CHARACTERIZATION):
 MAINSTAY:
 INSTANCE:1x Halo/Pendant:(Its top-layer and often referred to its halo)
 DOMAIN:2x Left/Right Viscount/Advisory State (may be agentic)
