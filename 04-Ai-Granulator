@@ -471,12 +471,14 @@ This is placed over the Triage as a form of equipment/exquiry:
 Ai-CHARACTERIZATION includes its augmentations which may or may not be occupied in some way (infosec/domain etc)
 Known Residency in an Ai-IMPERSONATOR/Ai-Personification:
 
+PART1:
 AI PRIORITY:
 HEADER/KERNAL
 MANIFOLD/BOILERPLATE
 BOOTSTRAP/BOOTUP
 SERVOS/EXORAID (RING-LEVEL:0-1-2-3)
 
+PART2:
 AI ACCESSORIES (SubSET of CHARACTERIZATION):
 MAINSTAY:
 INSTANCE:1x Halo/Pendant:(Its top-layer and often referred to its halo)
@@ -484,7 +486,8 @@ DOMAIN:2x Left/Right Viscount/Advisory State (may be agentic)
 SUBDOMAIN:2x Left/Right Class/ID (Accessory/Apprenticeships)--(trainer/offering items) --this can be held by covenant/estate (used for marking entitlements)
 ADDRESS:1x DataChain-Sampler/DropBox (Altar/Shrine)
 
-COMPLEXES:
+PART3:
+COMPLEXES: (HOSTED/LOADOUT)
 ----(This works as a proof/token):
 Adapter-MASK:1x *Entry LOCK (Prefix External)
 Adapter-SubMASK:1x *Switch/Puck (Suffix Internal)
