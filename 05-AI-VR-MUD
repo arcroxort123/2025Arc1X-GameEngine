@@ -13,6 +13,8 @@ BASICALLY it starts out as a SENSITIVE-DATA-SIGNAL which is quickly overwritten/
 5:Attempts Security/Administrations and Interaction/Interferences/Infiltrations/Inferences etc --(QUICK-POP) --(buffer)
 Once this is achieved it has establish a NONSENSITIVE DATA-STREAM as a VRMUD ADAPTIVE-CLIENT INTERFACE/SHELL which is interacting with its environment to provide a steady stream of data)
 
+Its called a VRMUD because it attempts to match to a client-feed/loop (when it obviously is spoofing definitions until it does)
+
 1--OPERATIINGSYSTEMMAINOVERHAUL
 Ubuntu
 	load autoload
