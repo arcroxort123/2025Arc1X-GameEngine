@@ -14,6 +14,9 @@ BASICALLY it starts out as a SENSITIVE-DATA-SIGNAL which is quickly overwritten/
 Once this is achieved it has establish a NONSENSITIVE DATA-STREAM as a VRMUD ADAPTIVE-CLIENT INTERFACE/SHELL which is interacting with its environment to provide a steady stream of data)
 
 Its called a VRMUD because it attempts to match to a client-feed/loop (when it obviously is spoofing definitions until it does)
+This can later be advanced with interpretators/negotations/handshakes/encrpytions/encodes/languages over a databank/database. And then once its correctly set it can reapplied to a working-gamespace or field-test.
+This allows Aa VRMUD to quickly simulate a target environment and attempt to integrate commands or exchange data between isolated instances or directly if allowed/elevated within accessibility.
+In weaponized terms it may be forced/heavy strategic-commands that seek to take priority over other users/varaibles etc.
 
 1--OPERATIINGSYSTEMMAINOVERHAUL
 Ubuntu
