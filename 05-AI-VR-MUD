@@ -11,7 +11,7 @@ Ubuntu
 		autoloadout1
 			precompiler
 		autoloadout2
-			postcompier
+			postcompiler
 
 	autoload apply
 	applier (full automodel)
