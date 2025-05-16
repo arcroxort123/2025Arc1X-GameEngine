@@ -6,12 +6,12 @@ This will track USERS through a VRMUD (while the GameSpace is loaded it attempts
 To be honest--i dont know what i was thinking and this is a madscience grab that the ai will figure it out for me.
 
 BASICALLY it starts out as a SENSITIVE-DATA-SIGNAL which is quickly overwritten/over-run by other priority codes (so it just tries to latch on to what it can)
-1:It attempts to diagnostic interface or grubwork
-2:Creates a Profile/Journal (Operating/Subsystem)
-3:Creates a Window/Workspace
-4:Begins program-ready changeouts using botfeeds/tas user tracking (Interceptions)
-5:Attempts Security/Administrations and Interaction/Interferences/Infiltrations/Inferences etc
-Once this is achieved it has establish a NONSENSITIVE DATA-STREAM as a VRMUD ADAPTIVE-CLIENT INTERFACE/SHELL.
+1:It attempts to diagnostic interface or grubwork  --(QUICKMODEL)
+2:Creates a Profile/Journal (Operating/Subsystem)  --(QUICKFRAME)
+3:Creates a Window/Workspace --(QUICKSHELL)
+4:Begins program-ready changeouts using botfeeds/tas user tracking (Interceptions) --(QUICK-FILL) --(stream)
+5:Attempts Security/Administrations and Interaction/Interferences/Infiltrations/Inferences etc --(QUICK-POP) --(buffer)
+Once this is achieved it has establish a NONSENSITIVE DATA-STREAM as a VRMUD ADAPTIVE-CLIENT INTERFACE/SHELL which is interacting with its environment to provide a steady stream of data)
 
 1--OPERATIINGSYSTEMMAINOVERHAUL
 Ubuntu
