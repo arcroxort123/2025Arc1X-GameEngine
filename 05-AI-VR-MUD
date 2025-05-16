@@ -15,8 +15,12 @@ Once this is achieved it has establish a NONSENSITIVE DATA-STREAM as a VRMUD ADA
 
 Its called a VRMUD because it attempts to match to a client-feed/loop (when it obviously is spoofing definitions until it does)
 This can later be advanced with interpretators/negotations/handshakes/encrpytions/encodes/languages over a databank/database. And then once its correctly set it can reapplied to a working-gamespace or field-test.
-This allows Aa VRMUD to quickly simulate a target environment and attempt to integrate commands or exchange data between isolated instances or directly if allowed/elevated within accessibility.
+In recreational This allows A VRMUD to quickly simulate a target environment and attempt to integrate commands or exchange data between isolated instances or directly if allowed/elevated within accessibility.
 In weaponized terms it may be forced/heavy strategic-commands that seek to take priority over other users/varaibles etc.
+---If a gamespace is targeted it will attempt to "crackshot/oneshot" certain pipelines/bypass to achieve connection (As default)
+---In a warzone it will do the same regardless of collatoral or reports. (Because it doesnt need to care about defcon/severity)
+---IN a psyops it tries to do this stealtfully and assert/aquire data/claims etc upon infosec/aquisition of its target index/assets ETC)---its just trying to takeover/takedown data either peacibly/combatively. Depending on how the VRMUD may respond or not. Or depending on how a REMOTE/VECTOR GAMESPACE/TARGET RESPONDS.
+---In extreme cases it will adapt/alter its data/transmits.
 
 1--OPERATIINGSYSTEMMAINOVERHAUL
 Ubuntu
