@@ -41,7 +41,7 @@ Ubuntu
 		---forcefeed FullApply --UserProfile
 	
 	load --UserProfile
-		--forcefeed MutilpleWindow
+		--forcefeed MutipleWindow
 		--Track Window
 		--Set Window Heirarchy
 
