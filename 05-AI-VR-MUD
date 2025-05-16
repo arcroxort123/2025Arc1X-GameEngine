@@ -3,6 +3,7 @@ SOME "thing" I designed to help illustrate what it takes to run a SERVER2CLIENT-
 As of right now its just some HYPE from an old file I had lying around.
 THIS WOULD BE USED VIA A DATABASE-INTERCEPTOR such as Zabbix/BURP or something...to actively monitor a gamespace (as its used)
 This will track USERS through a VRMUD (while the GameSpace is loaded it attempts to track the users seperately from the instance) via Exoscopy/Viewporting the DOMAIN-data-trails.
+To be honest--i dont know what i was thinking and this is a madscience grab that the ai will figure it out for me.
 
 1--OPERATIINGSYSTEMMAINOVERHAUL
 Ubuntu
