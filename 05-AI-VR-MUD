@@ -1,6 +1,7 @@
 2/5/2023
 SOME "thing" I designed to help illustrate what it takes to run a SERVER2CLIENT-hosting VRSYSTEM(VR-MUD)
 As of right now its just some HYPE from an old file I had lying around.
+THIS WOULD BE USED VIA A DATABASE-INTERCEPTOR such as Zabbix or something.
 
 1--OPERATIINGSYSTEMMAINOVERHAUL
 Ubuntu
