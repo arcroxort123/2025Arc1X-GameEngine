@@ -1,0 +1,136 @@
+2/5/2023
+SOME "thing" I designed to help illustrate what it takes to run a SERVER2CLIENT-hosting VRSYSTEM(VR-MUD)
+As of right now its just some HYPE from an old file I had lying around.
+
+1--OPERATIINGSYSTEMMAINOVERHAUL
+Ubuntu
+	load autoload
+		autoloadout1
+			precompiler
+		autoloadout2
+			postcompier
+
+	autoload apply
+	applier (full automodel)
+	
+	load automodel
+		load autoloader
+	
+	load automodel
+		load Ubuntu-AutoModel-AutoLoad-AutoLoadout
+	
+	load Autoloadout
+	force signature throughput
+
+2--OPERATINGSYSTEM PROCESS-RUNTIME
+	AutoLoadout-Loud AutoLoadout (environment)
+		-forcefeed
+		--forcefeed history (Copy)
+		---Forcefeed history (paste)
+		AutoDock AutoLoadout
+			-forcefeed
+			--forcefeed signature
+			---force throughput AutoProfile
+
+	load AutoProfile (Apply AutoProfile ENVIRONMENT)
+		-forcefeed AutoProfile
+		--forcefeed Ubuntu AutoProfile --UserProfile
+		---forcefeed FullApply --UserProfile
+	
+	load --UserProfile
+		--forcefeed MutilpleWindow
+		--Track Window
+		--Set Window Heirarchy
+
+	load Window-Set
+		=Compile Window-Set Environment
+		--force Compile Window-Set Menu-Optional
+		---force Apply Mode-Options
+
+3-DESKTOP MAINSCREEN VIEW (Virtual Program VISOR)
+	load Mode-Option
+		-MUD Load MUD-Host
+		--FORCE MODFLOAT-ROM-NET
+		---LoadOut Screening-Access-Table
+	
+	load Screen-Access-Table
+		-force Template
+		--force GroupSET
+		---force RawPRINT-TO
+
+	load PRINT-TO
+		-force Convert
+		--force Issue
+		---force COMMIT
+
+	load COMMIT
+		-force MAINState
+		--force CarrySTATE
+		---Force TapState
+
+	load HashReport
+		-force hashSave
+		--force logRoller
+		---force ChangeOut
+
+	load SafetyCheck
+		-force LockOut
+		--force timeStamp
+		---force BranchMark
+
+	load Branch-Fork
+		-force versionCheck
+		--force PIN-Count
+		---force compatibility
+
+	load imageBatch
+		-force bitBuffer
+		--force index-write
+		---force compose
+	
+	load Signature
+		-force callback
+		--force traceback
+		---force limit
+
+	load Combine
+		-force tag
+		--force track
+		---force codebucket
+
+	load FullScript
+		-force module
+		--force object
+		---force variable
+
+4-PROGRAMBotTimes:	
+    load BOT-TOOL
+    		-load alternative-frame
+            --load optional-instance
+            ---load crashreport
+     
+     load USER-BOT
+     		-force cycle
+            --force sequence
+            ---force labeler
+      
+      load USER-BOT:Warrior
+      		-force Select
+            --Force Target
+            ---Force String
+      
+      load USER-Event
+      		-force EVENTactive
+            --force ADAPTIVE-INPUT
+            ---force ECHO-Event
+
+5-PROGRAMBOTOPTIONS
+		load KeyFRAME
+        	-force driverUTILITY
+            -force CASEpermissions
+            -force NODEsamples
+
+	load launcherDisplay
+		-force energyGrid/Lee-Way-MonitorRVXSShielding(snaptoCoordworks/pixelArrays)
+		-force plasma-field synergy(quadlensing)-powersystems
+		-force COMBINED-(FULLVISORYImmersionary)-CognitiveIntegrationReadouts(Simulation)-SuperGPU
