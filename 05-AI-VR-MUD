@@ -201,6 +201,7 @@ XCLIENT~SYNCTO (4+1=5)
 RESULT:IDEA/EGG (25) --20+5 (24 OFF)
 POWERUP//CASEWORK
 
+This all allows/RELIES heavily on sync/matches between its target/paints to achieve interaction with a foreign/intercept or remote/viewport.
 -=-=-=-=-=-=-=-=-=-
 NOW WE BEGIN GUI-HUD DESIGN/CUSTOM SETTINGS which are integrated and default to a TERMINAL/OUTPUT-SCREEN.
 So the screen may have its "own game-overlay" etc. Which is great.
