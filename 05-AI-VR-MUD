@@ -202,3 +202,5 @@ RESULT:IDEA/EGG (25) --20+5 (24 OFF)
 POWERUP//CASEWORK
 
 -=-=-=-=-=-=-=-=-=-
+NOW WE BEGIN GUI-HUD DESIGN/CUSTOM SETTINGS which are integrated and default to a TERMINAL/OUTPUT-SCREEN.
+So the screen may have its "own game-overlay" etc. Which is great.
