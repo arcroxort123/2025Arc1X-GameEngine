@@ -237,4 +237,4 @@ This allows for META-NODES which are articulated through browsing (but are mostl
 ---
 VR MUD Source(Mobialized from Beacon/Siege/Bridge/Blackbox etc) 1:
 6: MetaNodes(Relay Source/Entry)-->MetaBolt(Remote Signal)-->MetaCharge(Broker Field)-->MetaPlasty(Shield Dock)-->MetaShard(Orbital Bay)-->MetaBot(Deployable Unit-Sustained by Relay/Access)
-(Combined as a fully authenticated tectometer) --which is augment/socket to a full construct/domain.
+(6+1)+1=8:(Combined as a fully authenticated tectometer) --which is augment/socket to a full construct/domain.
