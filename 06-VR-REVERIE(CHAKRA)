@@ -85,3 +85,4 @@ Process Step Guide of EMPTY/OCCUPIED/TRANSFERRED/MOUNTED
 
 This also parses over to a backrooms compatibility (for simulations within a vrmud)
 This allows for safemeasure-backrooms-tunneling-protocols which allows for checkpoints to be applied and used as route-markers.
+VoidScraping may be Synced/Tunneled or Virtualized per Browse per its checkpoint/model route-marker/beacon-gateway. (This allows for safe access to void-data in backrooms)
