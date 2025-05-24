@@ -24,6 +24,7 @@ ipva491 :PLCX(clock)
 ipva492 :MOSFET(chipset-diagnostic)
 ipva493 :CMOS(power)
 
+THE CONVERSION PROCESS OF (RAM TO CPU and FROM CPU TO RAM for HARD-DRIVE RAID)
 Which would then allow MOSFET to register as recieving signal/power in which it develops to ram.
 And sets its savestates and profiles under
 SAVESTATE1 :cpu with offload of mosfet framework
