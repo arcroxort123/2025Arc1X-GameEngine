@@ -44,13 +44,15 @@ which allows
 Profile 5
 to write back to device/module of intended address (in harddrive-savestate)
 
-Or something like that
+Or something like that (in which savestates/profiles containing offloads/payloads are called/invoked)
 Where Ram is initialized to allows MOSFET to use CPU
 and correalates its savestates to profiles in order to hardwire a connection to a harddrive address etc.
 In which this transfer system has been fully Expressed in the correalated availibility of device/modules in its pipeline/process (all while under power/activation of its signal through pllcx/mosfet/cpu/cmos brokerage to ram)
 So that the device/module is initialized under ram-probe and connection to ram.
 So that the correct signals are verified by savestates under variable profiles as Offload/Payload TO (specified process etc)
 
-This is rewritten as an automated-drone build and dapted in a virtual setting as a bootstrap.
+This is rewritten as an automated-drone build and adapted in a virtual setting as a bootstrap.
 (This may be color coded per step/cycle)
 and simulates legacy encodes per SNAP-TO/DIRECT-TO device/module.
+
+Once data is passed over bootstrap/diagnostic under policy, it is expressed/addressed to the neccessary pipeline//process connection/conduit of device/module to be called/invoked over network.
