@@ -46,7 +46,7 @@ Profile 5
 to write back to device/module of intended address (in harddrive-savestate)
 
 AND SO HARDRIVES/MODULES etc PERIPHEREALS MAY BE RECOGNIZED IN THEIR RAW-SIGNAL/TITLE-ASSIGN/ADDRESS-EXPRESSION/RAIDLEVEL
-or by call/invoke of their payload/offload (distinct memetic address/instance)
+or by call/invoke of their payload/offload (distinct memetic address/instance or signature/probe-diagnostic)
 
 Or something like that (in which savestates/profiles containing offloads/payloads are called/invoked)
 Where Ram is initialized to allows MOSFET to use CPU
