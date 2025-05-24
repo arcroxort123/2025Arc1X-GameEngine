@@ -9,3 +9,48 @@ This allows users to collect net-worth/data-scrapes of user activity.
 This allows brokerage to setup agency over auto-scripts and custom preferences.
 This allows blacksite market availibility within user experience.
 This creates a safety-measure to keep other users secure and at a security-profile to the user account/broker account.
+
+VRMUD BOOSTRAP-SYSTEM
+
+Basic Ram Expression Address
+ipva390 :Ramset0
+ipva391 :Ramset1
+ipva392 :Ramset2
+ipva394 :Ramset3
+
+Cpu Expression Address
+ipva490 :CPU(architecture)
+ipva491 :PLCX(clock)
+ipva492 :MOSFET(chipset-diagnostic)
+ipva493 :CMOS(power)
+
+Which would then allow MOSFET to register as recieving signal/power in which it develops to ram.
+And sets its savestates and profiles under
+SAVESTATE1 :cpu with offload of mosfet framework
+SAVESTATE2 :ram with offload of cpu framework value
+---which translates to a Profile
+PROFILE1 which may be built to the mosfet addresses of several savestates involving for periphereals.
+So that
+Profile2
+Will be specific values of device/modules for instance a harddrive address
+Which would recognize itself in correlate to the Mosfet profile offload and allocate to ram payload.
+So that
+Profile 3
+Would consist of ram of harddrive which is addressed for ram of cpu which is addressed
+to be swapped as
+Profile 4
+Contained Cpu offload which is then correalate to Cpu payload once translated
+which allows 
+Profile 5
+to write back to device/module of intended address (in harddrive-savestate)
+
+Or something like that
+Where Ram is initialized to allows MOSFET to use CPU
+and correalates its savestates to profiles in order to hardwire a connection to a harddrive address etc.
+In which this transfer system has been fully Expressed in the correalated availibility of device/modules in its pipeline/process (all while under power/activation of its signal through pllcx/mosfet/cpu/cmos brokerage to ram)
+So that the device/module is initialized under ram-probe and connection to ram.
+So that the correct signals are verified by savestates under variable profiles as Offload/Payload TO (specified process etc)
+
+This is rewritten as an automated-drone build and dapted in a virtual setting as a bootstrap.
+(This may be color coded per step/cycle)
+and simulates legacy encodes per SNAP-TO/DIRECT-TO device/module.
