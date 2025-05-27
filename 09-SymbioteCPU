@@ -1,0 +1,43 @@
+09-SymbioteCPU
+
+So to design a cpu(symbiote)
+we use a current which is considered a load/hot-wire
+the current is clocked with a pllc which is considered a loadout when it distributes this load/hotwire
+
+-==pllc time
+the pllc is triggered by the current passthrough which clocks a direct current to an on/off repeater
+
+-==socket time
+this is comptracted to the socket
+the socket has then a power circuit that channels what active power is sent to a cache storage
+the other socket has a circuit to an insulator in case of overcharge it will insulate
+the other socket alternate has a route to a resistor which will close the socket in case of overcharge
+these sockets are triggered when insulation is charged with an overcharge that the resistor kicks the connection
+
+===cpu time
+and the power channel is also fed the charge to a storage which also somewhat simulates as an insulator when it is overcharged
+so this is the entrypoint of the cpu, which is channeled by the pllcx, to the socket, to the comptracted power circuit
+---
+so after the entrypoint has received power it transfers to the architecture of the cpu
+and the next diodes upon the gpu are used as a binary readout for i/o (on/off) in such a fashion as to simulate the pathway
+these pathways may also have a cache offload
+---
+the first pathways consist of a range of binary diodes sequenced such as to simulate the first signals of a cpu
+these then branch off in a consistent pattern to the advancements of those sequences being arranged in other pathways
+that the advanced pathways have notarized a microscopic/atomic blend of signal/cache which are then coordinated to the
+organized ram-chain of the cpu architecture onboard the cpu chip--as the beginning stages of a compute.
+---
+this is pipelined to a bucket of prioritized ram-chains/memetic-address which is stored in more diodes expressed under a cpu partition in the architecture which may be invoked/called through initial selections in the following compute(so we have entrypoint/pathway/ramchain/collectivebucket/compute-initials)
+---
+these set up the pipeline for pllc-->compute using a conjunction under pllc--socket--entrypoint of a cpu connection
+this connection is then bootloaded under a diagnostic binary which advances itself to hexadecimal imprinting under its loadout/offloads which are considered a payload in the cpu architecture. (post-commit) to function-print
+---
+these then allow for a consistent sequence of pipeline event-chains to be analysed as a fully expressed Compute of Binary/Hexadecimal Logic-Basis. *(Logistic-Data)
+----
+This data is then coordinated under its title/assign in a checksum/voucher bulletin/traffic stack to coordinate under handle/PID as service/journal instances for which have been addressed.
+----
+these remain in schedule until reorganized for distribution under packet-protocols to the CPU-ENCODE
+----
+this may or may not be encrypted upon release of the stack. upon which they are sent to RAM(exchange) (usually for write to target periphereal etc hard-drive cache).
+----
+the results are tracked and sent back and forth until succession of terms/policies have been considered and then are set to a transfer-connection.
