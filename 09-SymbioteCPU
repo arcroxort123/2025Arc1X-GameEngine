@@ -702,7 +702,7 @@ The officialized-boot/login may take some windup/cycling in its process/sync to 
 REVIEW: (sorry for this heavily marginalized guess--the guidelines are extremely complicated and this only diminishes the complicated manuevers it actually takes to make this)
 ---
 We now connect the system together:
-That a Symbiote-Emulation or Target-Rawset-Partition has been parsed over support-chains etc @Line001-181
+That a Symbiote-Emulation or Target-Rawset-Partition has been parsed over support-chains etc (EZ-OneClick-PREP) @Line001-181
 That a Symbiote-Architecture has been theorized (over lamp and other components) @Line182-314
 That a Symbiote-Framework has been established. @Line315-514
 That a Symbiote-CPU has been pipelined. @Line515
