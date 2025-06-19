@@ -931,7 +931,7 @@ LEGACY
 65536 - Sandbox
 ------------
 86x
-88064 - Environment Ready
+88064 - Environment Ready/Vectorizer
 ------------
 102x 
 104,448 -(Gamespace/Boilerplate)
