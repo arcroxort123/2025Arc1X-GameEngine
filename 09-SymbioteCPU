@@ -905,16 +905,16 @@ Length of SYMBIOTIC-PARSE:(guesswork/estimates)
 12-Aux
 32-Dynamo/Market
 64-Barracks/Trainer
-128/Analog
-256-Frigate
-512-Server
-768-Metaserver
+128/Analog/Domain
+256-Frigate/Botnet
+512-Server/Projector
+768-Metaserver/Virtual
 1024-Asylum/Logic
-2048-Subxtract
+2048-Subxtract/Retrainer
 4096-Dynamo/Grail
-5120-Launch
-6144-Beacon
-7168-Prosper
+5120-Launch/BlackMarket
+6144-Beacon/Capture
+7168-Prosper/Remote-Economy
 ------------
 Total 12x
 12288 Bouquet/F-Reality
