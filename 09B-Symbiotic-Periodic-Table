@@ -91,3 +91,4 @@ This call/invoke occurs at domain/construct or module/source for which it is pat
 This is then assigned regiment/vocational priority to its own squad/group etc in the region/zone.
 
 Not sure if it works wil have to tweak it so that it fills its criteria whenever auto-placed/auto-scanned or granted/articled per source/destination it travels/stations overtime.
+This is further developed in 09C-Symbiotic-BotNET-AdvancedMeta
