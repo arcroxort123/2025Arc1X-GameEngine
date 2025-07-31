@@ -999,7 +999,7 @@ This coinsides with Iron-Dome Districts and (Gun/Turret Assignment/Appropriation
 Full barista modification/modifier of its augment/extension.
 
 7/31/2025
-Xenophagic-Stratification: Repurpose (Singularity/District)
+Xenophagic-Stratification: Repurpose (Singularity/District) --(WeatherSystem/RealmOverRide)
 1) Xenophage Stratagem (WorldView)
 2) Spectrum (Subspectrum incl)
 ---part 1:
@@ -1036,3 +1036,5 @@ CodeName HoloShip-Devour-Class -- is a module that Stoneworks/Labworks its own D
 This can be done remotely/outsource of a targetpaint if its target is in lockdown/incursion status.
 Xenophagic AutoStrip (is a special case command to remove all assets/shareholds from target structure/construct including xbones/xmounts)
 Xenophagic AutoDress (is a special case command to reinstall all assets/shareholds or intent/codespell etc to a target structure/construct including xbones/xmounts)
+
+ALRIGHTY, so hopefully the ARC1X SERVER FRAMEWORK can handle this appropriately. All I gotta say 'bout that.
