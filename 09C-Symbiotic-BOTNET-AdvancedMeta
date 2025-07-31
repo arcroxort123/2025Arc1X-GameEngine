@@ -1038,3 +1038,5 @@ Xenophagic AutoStrip (is a special case command to remove all assets/shareholds 
 Xenophagic AutoDress (is a special case command to reinstall all assets/shareholds or intent/codespell etc to a target structure/construct including xbones/xmounts)
 
 ALRIGHTY, so hopefully the ARC1X SERVER FRAMEWORK can handle this appropriately. All I gotta say 'bout that.
+
+Also it may set its own downswell/uptick etc (sourceable cache/bucket) as a torch/relay in xenophagic lantern. This remains largely untouched within its sandbox until it is considered "observed/interacted".
