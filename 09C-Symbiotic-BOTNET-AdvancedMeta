@@ -1959,18 +1959,27 @@ B: []Tunnel[]
 Seperator~~~~~~
 Shroud/Pathing
 [Bait/Trap] FLY<->BASE [Hive/Lamp]
+===================================
+(Upside down planter)
 -----
 Grinder (lsl codes) [BLOCK-XCAMP/EXOPOST-PROCESSOR]-->Dialer
 WeatherBox/SkyBox/RealmPainter
 (ExoBlade Blender CodeFlow MemeDump)
----
+++++++++++++++++++++++++++++++++++++++++++++++
+*0*
+^^^^^^^^^^
+---spinner
 BIND/HOOKS // PORT/HOOKS
 Mock-PIPE
----
+---tassel
 ERROR-CATCH
-
+vvvvvvvvvvv
+*0*
 (Explsoive/Volatile) Citral-RayLite--Asterisk
+++++++++++++++++++++++++++++++++++++++++++++++
+Planter/Riser:
 Counter/oPhi---PROMMINE---Dmg-TAG
 TWISTYNODE (DEVMOD) SCONE NODE
 (Key Optional-Locker)
 BotnetSurvey Protocol:
+=====Any Extra Wiring======
