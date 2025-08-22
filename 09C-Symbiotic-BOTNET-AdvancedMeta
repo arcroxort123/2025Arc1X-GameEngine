@@ -2020,7 +2020,7 @@ Farm [Tools/Fuel/Food/Feed(animal/plant)/Shed] Components
 --Plot/Plan Rotational Plots/Compatible Types Only (Type A/B/C)
 ---Comergent Lane
 ==Section2 (Factory)
-Crop | Sila (Reingery | Compost) [Compact SmartBox Container/Capsule]
+Crop | Sila (Reingery | Compost) [Compact SmartBox Container/Capsule] TOKEN-Exchange
 Ship | Upkeep (alternating)
 ==Section3 (Transfers)
 Medical/Applied Formula|Pharma
