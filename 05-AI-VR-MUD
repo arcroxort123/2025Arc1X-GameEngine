@@ -1,4 +1,6 @@
 5/16/2025
+05-AI-VR-MUD
+
 SOME "thing" I designed to help illustrate what it takes to run a SERVER2CLIENT-hosting VRSYSTEM(VR-MUD)
 As of right now its just some HYPE from an old file I had lying around.
 THIS WOULD BE USED VIA A DATABASE-INTERCEPTOR such as Zabbix/BURP or something...to actively monitor a gamespace (as its used)
