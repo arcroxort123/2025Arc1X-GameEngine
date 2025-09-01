@@ -64,12 +64,14 @@ GameEngine-Passed
 Sandbox-Passed
 Env-Passed
 
-VM-BUILD TRIAGE:
+VM-BUILD TRIAGE: (+options)
 IDEAS-Compile --WIP
 TEMPLATE LAyout --TBA
+
 AdvancedBuild --TBA
 TEXTBuild --TBA
 MetaBUILD --TBA
+
 Legacy+LegacyVR --TBA
 
 MAJORPASS --TBA
