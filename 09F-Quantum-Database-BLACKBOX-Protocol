@@ -50,4 +50,6 @@ The GameEngine is an alternative Protocol
 The Env Is a sub-layer
 The Sandbox is a Entity
 ---Advanced/Text/MetaBuils are World/System/Brokering
-And the Legacy/LegacyVR is the user-experience/maintenences (Sustained-Domain-Node)
+And the Legacy/LegacyVR is the user-experience/maintenences (Sustained-Domain-Node and Custom Profiling/Integration)
+
+This is now a complete system/fully-versioned-theory.
