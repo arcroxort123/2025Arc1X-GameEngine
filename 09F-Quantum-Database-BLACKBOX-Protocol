@@ -547,5 +547,9 @@ upgrade update and optimize this file with all necessary assets in game engine o
 include any overlooked or additional snippets not considered
 check other asset folders to include references or contents of and make adjustments where needed
 
+This allows auto-transmute and auto-aggregation or auto-incorporation/auto-synchronization of an autotransaction/auto-application of meta-data to be injected within image-states.
+Either as touchups or visitations to a codestate/savestate/snapshot/transformy (which is seamless integrated upon loadout/readout)
+This is just an advanced form of stable diffusion. (using hyperthreaded-real-time-gamespace as a codepallete)
+
 include all directories that would be needed for a graphical client launcher
 
