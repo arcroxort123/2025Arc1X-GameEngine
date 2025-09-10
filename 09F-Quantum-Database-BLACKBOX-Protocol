@@ -511,3 +511,6 @@ BECAUSE LEGACY/VIRTUAL LEGACY MIGHT NEED TO "ALTERNATIVELY JUNK ITSELF" in the t
 AND THIS CAN BE SYMLINKED TO A GAME-SPACE for fun so as to watch it go down within A GAMING-PLATFORM (despite being very much in ground zero)
 This affords alot of reverse-compatibility and backend/frontend detours/shortcuts which is also nice (depending on SOURCE/POINTS involved or in mainstay/origin etc)
 --Also legacy/vr-legacy folder is considered a JUNK-FOLDER just incase it is by default (the idea is that it is rebuilt to not be junk so that it can then be used/trusted)
+
+Also since INTEGRATION IS FINNICKY and I am not sure what to do with it except troubleshoot alot (even if it says its WORKING or its NOT WORKING or OTHERWISE CONFUSED)
+I allow integration to accept accept batteries (to draw POWER from BATTERIES etc as a LOADOUT/READOUT system etc) because I dont know if that even works. IT WILL ALSO BE ALLOWED TO ACCEPT AMMO/FUEL CELLS if it doesn't know how to do that. IT CAN ACCEPT POWER-UP/BOOST-VOUCHERS as a failsafe (if it doesnt work then IDK what I am even doing, I want it to think it is coding or transfering data AUTOMATICALLY because of its power conduit/adapter SETTINGS. And this is an ALTERNATIVE that also MIGHT NOT WORK)--because its just SUPPOSED TO BE ABLE TO due to all the VIRTUALZIATION/ACCELERATION ALREADY IN PERFRMANCE/WINDUP.
