@@ -715,5 +715,5 @@ Its not good because its usually toxic to systems and also it can be avoided ove
 
 SO
 WHAT WE HAVE NOW
-is a TankBuilder/HauntedHouse/DragonWorld/PanicBlob(MazeSolver)/HauntedKnight(Combat)/QuantumBattle(Scanner)/Token-Maker/Leviathan-Habitat(quantum-chakra)
+is a TankBuilder(MonsterMaker)/HauntedHouse(TemplateBuilder/Dungeon)/DragonWorld(VR-DRIVING)/PanicBlob(CODE-MazeSolver)/HauntedKnight(Combat)/QuantumBattle(Scanner)/Token-Maker(Generates UUID/ENCRPYTIONS)/Leviathan-Habitat(quantum-chakra)/GLITCH-VIRAL(Safe-Checker)
 All of these work and would work even better if they were integrated with a meta brain, but that is hard for it to do becuase---AI doesnt want to really do it for me.
