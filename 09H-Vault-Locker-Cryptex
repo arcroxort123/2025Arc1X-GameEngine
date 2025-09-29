@@ -208,3 +208,4 @@ We also have a ghostbusters-capture-device and rempods/sensory-ocr if necessary 
 There may be others but it is alot to just throw in the air and this is the best system atm we have.
 
 This considers the final compute/prompt-bit which is authorized.autheticated via the token/ad-adpi for its usage under client interaction or admin-command etc.
+This is used in the modachi/phoebie node/cluster and or is issued/usage within storm/confinments etc.
