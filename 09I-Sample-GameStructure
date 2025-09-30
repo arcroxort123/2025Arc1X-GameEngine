@@ -77,3 +77,5 @@ Full Device and Module Integrations
 Full SubModule and Componet Integrations
 Full Driver Service and Architecture Performances
 Full Memory Pathways and Adapter Pipelines
+
+This allows for a psuedoclient to negotiate connection/authetication with an integrated client for full barrier/protective protocols of client side interface/transcommunications of server-clients.
