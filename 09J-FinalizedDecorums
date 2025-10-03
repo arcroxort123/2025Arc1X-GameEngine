@@ -182,6 +182,8 @@ Progressional/Procedural Compile of (Aura-Farming)
 7)cake/frost
 --optional:
 8) paste/epoxy (glue/prop) 
+--
+This is auto-product/auto-packaged.
 
 This allows for server-based progressional templating to auto-render when under call/invoke.
 This occurs with engineblock/consolidation-service (mounting/socketing)
