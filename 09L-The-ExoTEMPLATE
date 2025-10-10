@@ -147,5 +147,4 @@ Implementations/Nusha-Pagefiles
 Operation/Expression
 ----This creates the implementation workset which clusterizes the workflows to their Measure/Iternary (Framework/AutoCycle) or Network-Stack/Protocol per layer/node cluster
 And the cluster is typically capable of ENGINE/MODE/PHASE/STACK flow etc.
-
-
+==and that if a cluster fails it can generally be repaired.
