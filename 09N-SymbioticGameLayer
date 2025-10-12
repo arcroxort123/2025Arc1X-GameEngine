@@ -158,3 +158,15 @@ Top-spins/drop-downs/turnkeys/turnstones etc (ToolKit/RootKit components etc)
 --ability to adust polarizations or select to preferred dipolarization (AUTO-PICK express/option)
 --This doormans as either on/off or as-is/best-of guess/approx to it being in-use/switch-to or activated/deactivated etc.
 This allows for particle-statagemic-assembly which forces constant/constraint to be dedicated/devoted when in priority/imperative to the adjustment/adaptations thereof any changeout/swapout or other form of complex/transfix/exchange/command or overall codestate/dataspace etc in use of scrap/mill or otherwise in host as transcripted/transcribed to the intended/specified polarizatin (positive/negative/nuetral/positronic etc)
+
+Expected Compute/Threads
+Bare Minimum 16
+Preferreable 32
+Reliable 64
+Nominal 86
+---
+Code-Strain CPU 16
++ CheckStat Cores +2
+Stack to 32 or 36
+Vulkan Stack to 64 or 72
++14 Enforce+Support at 86 Total Cores
