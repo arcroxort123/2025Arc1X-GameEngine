@@ -529,3 +529,4 @@ THIS TRACKS any CHANGES occuring to UUID4 interactions and entries.
 This finds unique IDENTIFIERS within the group that signify effective unique interactions based on UUID4 TRIGGERS
 These triggers are tracked for each instance they occur as effecting any UUID4 which are brokered and checked for any DUPLICATE entry/interaciton.
 UUID4 PROFILES are reactive to unique trigger occurences in which unique indentifiers are brokered, resulting in overall UUID4 performance and further interactions, resulting within any metric brokered.
+This compared to AGENTIC-META-PROPERTY.
