@@ -252,7 +252,16 @@ And in extreme cases, this can be done on the fly/mid-transfer via TRACKING/TRAC
 
 
 Some extra math:
+video reference: https://www.youtube.com/watch?v=6M1iHSl6Puo&t=167s
 Using approximate numbers and irrational numbers to their referenced integer.
-Such as in gaming using vectors to approximate to 1. That they are better when in sqrt when 1/16 is .2499999 or the reference being .25
+Such as in gaming using vectors to approximate to 1. That they are better when in sqrt when 1/(sqrt)16 is .2499999 or the reference being .25
 SO---uh using any approximate integer regardless of its true formula. Such that it may be referenced to a nearby approximated integer whether true or not.
 this uh..helps with graphics accelerations. ANYWAYS...its one of many math tricks.
+it doesnt necessarily approximate the value so much as it reassigns it as a rational number :). Entirely. No
+---so in my version here---
+the number is chomped/crunched down and replaced with an optimized version...which is then decidedly converted to a rational number...so that any number can basically be converted to a desired integer.
+So if we discover a number that is a likely candidate that should be converted, we can experiment with its conversion to see what it may or may not effect in that conversion (such as acceleration or otherwise)---because we redefine the behavior (whether it is undefined or not, into a new behavior)---and then like in the video, we convert it to a magic constant which is read as the new bit
+so we design magic constants based off number we may or may not know of, in vector assumption/assessment. so we can ASSUME our randomized magic constants will effectively work in their conversion under their new-definitions, and this helps to make "index checksums over nusha encrpyted meta-data"---which at the point it may effect data, may or may not really even matter, and just that it works for the reasons being, that it is known to have been referenced.
+So we reference values in some vector-eval, and have a predicted/expectated outcome/result from thereof (resulting sometimes in bugs or corruptions)---but overall is experimental so its generally ok to do in a safe-environment (over the float)
+so we just LIE about NUMBERS, and we just simply pick and choose what numbers we want, in our peak/lang to be what they are, over meta-data, and that is our excuse for whatever is the way it is, because either OUR PEAK/LANG had EFFECTED the META-INDEX, or OUR METHOD of inteference with that in RNG effected it in some way, so we just say its approximated and referenced to the desired magic constant, so THAT we decide to keep that logic for use in QUANTUM-VECTORS.
+----This allows our QUANTUM-LOGICS to be referenced to our desired definitions, whether or not they have any effect on acceleration or index at all. Because we use it a certain way under the WEIGHTING/COUNTER of the ai-model/meta-data involved.
