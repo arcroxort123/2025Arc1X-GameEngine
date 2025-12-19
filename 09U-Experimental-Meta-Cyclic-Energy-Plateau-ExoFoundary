@@ -414,7 +414,7 @@ ExoTemplate ---shipping/handling
 ---
 OtherSystemCriteria --make sure it works for consoles
 Symbiotic-GameLayer --make sure consoles can connect to each other and other consoles
-Virtual Underealm --the only version working from the server-game-client
+Virtual Underealm --the only/online version working from the server-game-client
 Agentic-Pet-Cryptex --online debugging
 Paradox-Distinct-Branch --fixing for online bugs and network issues (trials/testing zones)
 Meta-Region --here come the patch/update
