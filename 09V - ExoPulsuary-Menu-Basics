@@ -19,7 +19,7 @@ debuff(add dot)
 purge(remove dot)//
 //
 
-Wait/Ripose/Counter/Suspend
+Wait/Repoise/Counter/Suspend
 
 blocked
 fortified
@@ -28,6 +28,10 @@ utility support
 empowerment
 sustaining
 compositional (all strata and compensations)
+
+Prep/Post-Encounter: 
+Bearings/Collect
+Transmute/Sync
 
 ---
 Initial/Encounter/Engage/Indirect/Splashing/Thrashing(Cost health)/Burning(indiscriminate costing)
@@ -93,5 +97,5 @@ Settings/About
 Cheats/EasyInstance (AutoClick)
 HYPERDIALER/Random-Access
 Layer/Count/Spec/Stack (Assume/Evaluate)
-Target/Focus Seed/Uuidv4 Label/Tag Asset/Index Audit/Assess Version/Header
+Target/Focus Seed/Uuidv4 Label/Tag Asset/Index Version/Header (Check/Flag for Audit/Assess)
 Sitework/BrowserType (PageFile/Report) (Realm/Parse Search/Fetch)
