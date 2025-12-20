@@ -14,10 +14,12 @@ charged
 suspend//
 disable//
 surge//
-static
+static//
 debuff(add dot)
 purge(remove dot)//
 //
+
+Wait/Ripose/Counter/Suspend
 
 blocked
 fortified
