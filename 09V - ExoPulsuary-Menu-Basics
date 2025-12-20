@@ -1,5 +1,5 @@
-12/202/2025
-09V - ExoPulsuary-Menu-Basics
+BasePlatform//Doorman
+LoadingScreen/WelcomeScreen
 
 basic-exopulsuary:
 idle
@@ -48,3 +48,44 @@ Source/Origin Point/Node (Address/Coordinate)
 Vector/Tensor (Environment/Tierbase)
 World Depth// Frame Select
 
+---
+This is the first main screen.
+---
+
+
+Now for additional HUB of screens and menus:
+Inventory/Checklist/QuestList/CharacterSheet/MacroBuilds --GearOptimizer/GearPlanner/GearBuilder/GearEnhancement 
+Recipies/Schematics/GearSets/Custom-Plots/Hall-Of-Fames
+Special-Buffs/Special-Effects
+Costs/Payments Routes/Supplies World-Events/World-Speciality
+Maps/Paths
+---
+Ports/Bridge/Modules/Carts
+---Shops/Kiosks Promos/Vouchers
+---Gamba/Gacha Casino/Rollers
+
+Shopping-Lists/Favorite-Locations
+Raids/Dungeons
+Arenas/Trainers
+PetYard/Farming/Mining/CrashOut (fight/loot runs/routines)
+---
+Timers/Watches --(Party/Invites)
+---
+Faction/Guild Base/Bonus
+---
+Risk/Trap Skills/Vocation
+---
+ToolKits/Nodespaces
+Scripts/Rulesets
+
+Grail-Progress
+Prosper-Clocking
+F-Reality Coherence
+---Meta-Image-Selection
+
+Premium/VIP-Access/Devtools/
+
+[Help/Save/Load/Refresh/Reset]===SpecialCommit/SpecialChains
+Settings/About
+
+Cheats/EasyInstance (AutoClick)
