@@ -58,7 +58,6 @@ World Depth// Frame Select
 This is the first main screen.
 ---
 
-
 Now for additional HUB of screens and menus:
 Inventory/Checklist/QuestList/CharacterSheet/MacroBuilds --GearOptimizer/GearPlanner/GearBuilder/GearEnhancement 
 Recipies/Schematics/GearSets/Custom-Plots/Hall-Of-Fames
@@ -97,5 +96,11 @@ Settings/About
 Cheats/EasyInstance (AutoClick)
 HYPERDIALER/Random-Access
 Layer/Count/Spec/Stack (Assume/Evaluate)
-Target/Focus Seed/Uuidv4 Label/Tag Asset/Index Version/Header (Check/Flag for Audit/Assess)
+Target/Focus Seed/Uuidv4 Label/Tag Asset/Index Version/Header 
+
+Cast/Spell:
+(Check/Flag for Audit/Assess @LINE46 and Snap-To Mark/Pending) for:
 Sitework/BrowserType (PageFile/Report) (Realm/Parse Search/Fetch)
+
+Diagnostic:
+EMERGENCY-EVAC-ONLY/FORCE-MIGRATE-ONLY CHANGE-OVER/SWAP-OUT
