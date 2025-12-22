@@ -6,6 +6,7 @@ For instance the layouts look like
 Block-String # (priority) ---with wildcards to select/deselect within priority
 SubBlockString # (priority) ---with wildcards to select/deselect priority (with subblocks generally being elective to the overall process/custom setups)
 StringBuilds can also be prefaced per block in their comment so it looks like (basically esLINT-style)
+Author's Note ---I am really freekin tired and dont want to think up subblocks right now but there would be like 5 or so for certain other blocks I can kinda imagine involving like (data-rates/meta-perks) for each block/custom to be preferenced/conditions to its user/profile --and I am just going to be lazy right now.
 
 **********************
 LAYOUT:
