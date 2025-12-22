@@ -5,7 +5,24 @@ We use Custom-Blocks and Custom-SubBlocks that may work in co-dependency of each
 For instance the layouts look like 
 Block-String # (priority) ---with wildcards to select/deselect within priority
 SubBlockString # (priority) ---with wildcards to select/deselect priority (with subblocks generally being elective to the overall process/custom setups)
+StringBuilds can also be prefaced per block in their comment so it looks like (basically esLINT-style)
 
+**********************
+LAYOUT:
+Block-String
+Block #
+#(stringbuilds)
+SubBlock Custom #
+#(stringbuilds)
+
+Subblock-String
+SubBlock #
+#(stringbuilds)
+**********************
+
+09V - ExoPulsuary-Menu-Basics
+
+So here we go with what I got 
 
 BLOCK1:
 BasePlatform//Doorman
