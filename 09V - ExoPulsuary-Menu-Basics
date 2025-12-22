@@ -2,6 +2,10 @@ This discusses the general user-experience/exopulsuary-menu-basic-preface and de
 This is broken into blocks/subblocks (chunks/subchunks) for OVERALL USER-FRIENDLY ACCESS (but can be customized anyway it can be imagined i guess)
 BECAUSE of the 09U PREFACES this doesnt have to be this way, but it works with 09U PREFACES to setup itself this way. (I am aware of how convuluted it is, and this is the best way I can find any cohesion from the "winging it syndrome" that this entire thing is)
 We use Custom-Blocks and Custom-SubBlocks that may work in co-dependency of each other or within their own background runtimes:
+For instance the layouts look like 
+Block-String # (priority) ---with wildcards to select/deselect within priority
+SubBlockString # (priority) ---with wildcards to select/deselect priority (with subblocks generally being elective to the overall process/custom setups)
+
 
 BLOCK1:
 BasePlatform//Doorman
