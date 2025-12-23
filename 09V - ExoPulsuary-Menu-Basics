@@ -2,7 +2,7 @@ This discusses the general user-experience/exopulsuary-menu-basic-preface and de
 This is broken into blocks/subblocks (chunks/subchunks) for OVERALL USER-FRIENDLY ACCESS (but can be customized anyway it can be imagined i guess)
 BECAUSE of the 09U PREFACES this doesnt have to be this way, but it works with 09U PREFACES to setup itself this way. (I am aware of how convuluted it is, and this is the best way I can find any cohesion from the "winging it syndrome" that this entire thing is)
 We use Custom-Blocks and Custom-SubBlocks that may work in co-dependency of each other or within their own background runtimes:
-For instance the layouts look like 
+there isnt an overt order to it but...For instance the layouts look like 
 Block-String # (priority) ---with wildcards to select/deselect within priority
 SubBlockString # (priority) ---with wildcards to select/deselect priority (with subblocks generally being elective to the overall process/custom setups)
 StringBuilds can also be prefaced per block in their comment so it looks like (basically esLINT-style)
@@ -27,13 +27,13 @@ SubBlock #
 
 So here we go with what I got 
 
-BLOCK1:
+BLOCK1:(startup)
 BasePlatform//Doorman
 LoadingScreen/WelcomeScreen
-
+WindUp/SpinUp
 
 BLOCK2:
-basic-exopulsuary:
+basic-exopulsuary:(basic tactician)
 idle
 repetitive
 direct
@@ -42,7 +42,7 @@ fast
 counter
 charged
 
-BLOCK3:
+BLOCK3:(advanced tactician)
 //
 suspend//
 disable//
@@ -177,3 +177,5 @@ SubBlock6 (17) ---Extra/Favorites (BURP/HACKS) (dont feel like listing any)
 SubBlock7 (19) ---Custom-Model/Custom-Anims (dont feel like listing any)
 SubBlock8A (20) ---Auto-Capture/Auto-Release Auto-Explore/Auto-Navigate (DEVICE:DECKLANE/FLAGSHIP) DEDICATE/DISCRETE (idk)
 SubBlock8B (19) ---ExoScopy/Viewport per Card/Decklane Advanced/Basic (idk)
+SubBlock9 (3) ---Stability/Compatibility Corruption/Insanity Poise/Siege
+SubBlock10 (10) ---MinorAmbience/MajorAmbience MinorElement/MajorElement (for instance in preference : slug/feral/chaos/cryptoform (hypergrub)
