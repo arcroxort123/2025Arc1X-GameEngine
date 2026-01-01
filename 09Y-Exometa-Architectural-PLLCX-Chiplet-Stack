@@ -4,7 +4,9 @@ This is a specialized module/chiplet to be used as an exometa-processor for virt
 
 This is based on the legacy/setup version for which is standardized as a CPU/NPU for which is based in this way:
 
-A compute is made and recieved
+A compute is made and recieved to a pending GROUP. GROUPS are selectively/comphresively arranged as parts of a LAYER
+
+---FIRST LAYER and GROUPS:
 LOGIC-over a logic-core. Singular usage it being a pllcx.
 PHASE-The logic-core is PHASE as to allot for all logic sets. In which most logic-configurations are availible.
 MODE-The sets are given modes such that each logic-core can be substituted/benched of its configuration. This allows for priority-access/entry throughpass/passthrough of a logic-core.
@@ -51,3 +53,29 @@ It becomes shielded/laminated as expected in thermal manifold/manifest/boilerpla
 Its sealed and vaulted by the way Now.
 Its basically its own NPU/GPU now.
 Author's Note : OMG--GOOD GOD FREEKIN GOD im so tired.
+
+SECOND LAYER:
+This is more of a sorting layer and is grouped like:
+VALIDATION GROUP
+---
+ACTIVE CHANNEL GROUP
+---
+SEQUENCE GROUP
+---
+SORTING GROUP
+
+And this is typically the first and second layer having been explained now.
+LAYER1 and LAYER2
+Which allows for LAYER3 to be:
+STANDING GROUP
+PROCESSING GROUP
+INTERNAL GROUP
+
+And so
+Layer1/Layer2/Layer3 can allow for internal component of exometa which is also...
+lightwave/laser sensitive.
+And may be power-sensitive as well...because of its collections on an atomic scale taking place.
+That the circuit will automatically register for background/fallout occuring.
+Which some groups or layers may be accounted for as either being powered-on or shut-off.
+And having internal transmissions and external emissions being transcieved regardless of their power state.
+Are sensitive enough to still deetect and correalate the data/info sharehold within these internal/external passtrhough/throughpass which are waiting/pending for info/data expected/predicted.
