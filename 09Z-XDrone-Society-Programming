@@ -348,3 +348,5 @@ ENV Archon=V3
 ENV Yggdrasil=V4
 Ghost/Meta =V5
 Exometa/Omni =V6
+---
+For safety purposes these are color coded as "exodots"
